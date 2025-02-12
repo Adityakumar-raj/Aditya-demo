@@ -1,2 +1,3 @@
 # Aditya-demo
-this is my first out repository
+this is my first our repository
+auther:aditya kumar
